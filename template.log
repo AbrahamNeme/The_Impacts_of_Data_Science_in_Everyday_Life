@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  1 JUL 2023 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  2 JUL 2023 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -275,7 +275,11 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box52
-) (template.aux)
+) (template.aux
+
+LaTeX Warning: Label `fig:sample' multiply defined.
+
+)
 \openout1 = `template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
@@ -407,32 +411,48 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 228.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 228.
-<pictures//datacenter_demand.pdf, id=56, 845.1575pt x 597.23125pt>
+
+Underfull \hbox (badness 1194) in paragraph at lines 226--239
+\OT1/ptm/m/n/9 (+20) such vast amounts of data ne-ces-si-tate dis-tributed com-put-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--239
+
+ []
+
+[2]
+<pictures//datacenter_spending.pdf, id=69, 845.1575pt x 597.23125pt>
+File: pictures//datacenter_spending.pdf Graphic file (type pdf)
+<use pictures//datacenter_spending.pdf>
+Package pdftex.def Info: pictures//datacenter_spending.pdf  used on input line 285.
+(pdftex.def)             Requested size: 240.94499pt x 170.25824pt.
+<pictures//datacenter_demand.pdf, id=75, 845.1575pt x 597.23125pt>
 File: pictures//datacenter_demand.pdf Graphic file (type pdf)
 <use pictures//datacenter_demand.pdf>
-Package pdftex.def Info: pictures//datacenter_demand.pdf  used on input line 257.
+Package pdftex.def Info: pictures//datacenter_demand.pdf  used on input line 314.
 (pdftex.def)             Requested size: 240.94499pt x 170.25824pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./pictures//datacenter_demand.pdf>] (template.bbl) [3
+ (template.bbl [3 <./pictures//datacenter_spending.pdf> <./pictures//datacenter_demand.pdf>]) [4
 
 ] (template.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: F66740B8CAFE91C1FA09A317BE2D69BB;1733.
+(rerunfilecheck)             Checksum: 08596A0B5FD949E692B997778D895230;1734.
  ) 
 Here is how much of TeX's memory you used:
- 11688 strings out of 476326
- 187179 string characters out of 5787722
+ 11753 strings out of 476326
+ 187997 string characters out of 5787722
  1881660 words of memory out of 5000000
- 31688 multiletter control sequences out of 15000+600000
- 557793 words of font info for 251 fonts, out of 8000000 for 9000
+ 31699 multiletter control sequences out of 15000+600000
+ 563530 words of font info for 289 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,8n,76p,1059b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on template.pdf (3 pages, 126312 bytes).
+ 76i,8n,76p,1059b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on template.pdf (4 pages, 194305 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 79446 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 79451 words of extra memory for PDF output out of 89155 (max. 10000000)
 

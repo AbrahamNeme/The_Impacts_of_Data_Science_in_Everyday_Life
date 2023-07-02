@@ -172,15 +172,15 @@ Data science is composed by the processes of data collection, cleaning, preparat
 stages that compose the journey of data science:
 
 \begin{itemize}
-    \item \textbf{Data Collection:} It all begins with gathering data from various sources, such as databases, sensors, social media, or web scraping. This diverse collection 
+    \item \textbf{Data collection:} It all begins with gathering data from various sources, such as databases, sensors, social media, or web scraping. This diverse collection 
     allows for a comprehensive understanding of the subject under study and ensures a holistic view.
-    \item \textbf{Data Cleaning and Preparation:} Raw data is often messy, with inconsistencies, missing values, and errors. Data scientists employ techniques to clean 
+    \item \textbf{Data cleaning and preparation:} Raw data is often messy, with inconsistencies, missing values, and errors. Data scientists employ techniques to clean 
     and preprocess the data, ensuring its quality, accuracy, and reliability for subsequent analysis.
-    \item \textbf{Data Analysis:} This stage involves exploring the data using statistical methods, visualizations, and machine learning algorithms. Through data exploration, 
+    \item \textbf{Data analysis:} This stage involves exploring the data using statistical methods, visualizations, and machine learning algorithms. Through data exploration, 
     patterns, correlations, and insights are discovered, providing a deeper understanding of the data and potential relationships.
-    \item \textbf{Modeling and Interpretation:} In this stage, data scientists build models and algorithms that encapsulate the patterns and relationships identified during 
+    \item \textbf{Modeling and interpretation:} In this stage, data scientists build models and algorithms that encapsulate the patterns and relationships identified during 
     analysis. These models allow for predictions, classifications, or recommendations based on the data, enabling a deeper understanding of complex phenomena.
-    \item \textbf{Iterative Process:} Data science is an iterative process, meaning that each stage informs the next, and insights gained from one iteration can lead to refining 
+    \item \textbf{Iterative process:} Data science is an iterative process, meaning that each stage informs the next, and insights gained from one iteration can lead to refining 
     the entire process. Feedback loops and continuous refinement are critical to enhancing the accuracy and effectiveness of data science outcomes.
 \end{itemize} 
 
@@ -232,10 +232,10 @@ choosing a suitable site that meets security standards, access to reliable elect
 It is also necessary to design a robust physical infrastructure that includes redundant power supply systems, efficient cooling systems for the computers that run day and night, and 
 security systems to protect the equipment and stored data. According to an analysis by the UK-founded commercial real estate services company Lang LaSalle Incorporated "the 
 average-powered base building (defined here as foundation, four walls and roof along with a transformer and common areas for security, loading dock, restrooms, corridors, etc…) of a 
-data center facility typically ranges from 125 US-dollars per square foot to upwards of 200 per square foot."\cite{Hawkins:2022} On top of these costs, getting a data center ready to function 
-with all IT capabilities can cost between "280 US-dollars per square foot and 350 per square foot."\cite{Hawkins:2022} These costs can, of course, be much higher depending on the location 
+data center facility typically ranges from \$125 US-dollars per ft$^2$ to upwards of \$200 per ft$^2$."\cite{Hawkins:2022} On top of these costs, getting a data center ready to function 
+with all IT capabilities can cost between "\$280 and \$350 US-dollars per ft$^2$."\cite{Hawkins:2022} These costs can, of course, be much higher depending on the location 
 of construction as well as power and availability requirements. To provide an example, when Facebook started constructing the Prineville Data Center in Oregon USA back in 2009 the 
-company invested more than a billion US-dollars to construct the 1.25 million-square-foot facility.
+company invested more than a billion US-dollars to construct the 1.25 million-square-foot (116,128m$^2$)\footnote{$10.7ft^2 \approx 1m^2$} facility.\newline
 
 Data science involves extracting meaningful information from large volumes of data. Nevertheless, proper interpretation of the results can be challenging. Machine learning 
 models and analysis techniques can generate complex results that require deep and expert understanding for interpretation. This is why multiple companies and governments are 
@@ -249,15 +249,51 @@ companies increasingly recognize the value of data-driven decision making, the d
  
 \subsection{Studies on data science}
 
+Educational institutions have responded to the demand for data science skills by introducing specialized programs and courses. These programs equip students with the necessary 
+skills in statistics, mathematics, programming, machine learning and data analysis allowing them to acquire the knowledge and proficiency needed to excel in this evolving domain. 
+Within data science there are several prominent career paths, some of which were born alongside this field and represent its foundations are:
+
+\begin{itemize}
+  \item \textbf{Data scientist:} The data scientist is one of the most prominent roles in the field of data science. These professionals are responsible for collecting, cleaning, 
+  analyzing, and visualizing data to gain meaningful insights and make decisions based on it.
+  \item \textbf{Data engineer:} Data engineers are specialists in designing, building and maintaining data infrastructures. They focus on developing systems and architectures for 
+  data storage, extraction and transformation, and ensuring data availability and quality.
+  \item \textbf{Data analyst:} Data analysts focus on interpreting and analyzing data to identify meaningful trends, patterns and relationships.
+  \item \textbf{Data architect:} Data architects are responsible for designing and overseeing the technology infrastructure needed to manage large volumes of data. They work on the 
+  planning and design of databases, storage systems and data flows.
+\end{itemize} 
+
+As the field evolves new opportunities and specialized roles emerge that adapt to the specific needs of certain domains and technological advances. These domain-specific roles require 
+a deep understanding of both the data science techniques and the unique challenges and nuances of the respective fields. Some examples of these study branches are:
+
+\begin{itemize}
+  \item \textbf{Machine learning engineer:} With the recent rise of artificial intelligence, machine learning has become a popular field of study all over the world. These engineers 
+  play a crucial role in developing and implementing models that can learn from data and make accurate predictions or automate processes.
+  \item \textbf{Businesse analyst:} A business analyst the processes in a company and analyses industry trends and markets. Business analysts process enormous amounts of data in order 
+  to find opportunities to improve business revenue and growth.
+  \item \textbf{Clinical data scientist:} These scientists unite healthcare training with computer science and statistics to actively collect, assimilate, analyze and predict patient 
+  diagnoses as well as medical industry trends.
+\end{itemize} 
 
 \subsection{labor demand in data science}
 
-\begin{figure}[tb]
+After all the previous insights of how data science its being leveraged for a wide variety of purposes, it is easy to acknowledge that the demand for professionals in this area has 
+witnessed significant growth and is expected to continue its upward trajectory in the coming years. According to Mckinsey \& Company and the Synergy Research Group the global spending 
+on the construction of data centers is forecast to reach \$49 billion US-dollars by 2030.\cite{Bangalore:2023}
+\begin{figure}[h]
   \centering % avoid the use of \begin{center}...\end{center} and use \centering instead (more compact)
-  \includegraphics[width=\columnwidth]{datacenter_demand}
-  \caption{A visualization of the 2014--2030 forecast data of US data center demand. The image is from \cite{Bangalore:2023} and is in the public domain.}
+  \includegraphics[width=\columnwidth]{datacenter_spending}
+  \caption{A visualization of the 2022--2030 forecast data of global spending on data centers. The image is from \cite{Bangalore:2023} and is in the public domain.}
   \label{fig:sample}
- \end{figure}
+\end{figure}
+
+The increase of investments directly translates to an increase in the projected number of jobs not only for data science specialists, but also for construction workers, maintenance 
+and IT support personnel who play a crucial role in building, upkeeping and upgrading data centers, ensuring the physical infrastructure is in optimal condition to house and protect data. 
+Additionally, the US Bureau of Labor Statistics predicts that "data scientist jobs will experience an impressive 36 percent growth between 2021 and 2031 in the United States, making it one 
+of the fastest-growing occupations."\cite{US-Bureau:2023} This growth can be attributed to the expanding adoption of data-driven strategies across industries and the need for professionals 
+who can derive actionable insights from complex data sets, and since the demand for specialists keeps increasing workers can expect a median anual salary of a \$100 thousand US-dollars or 
+even close to \$200 thousand at some senior positions with big companies. Furthermore, in the ranking of the 100 best jobs of the digital media company U.S. News \& World Report, data scientist 
+ranks 22nd, with other occupations related in some way to data science like software developer, information security analyst and market research analyst ranking 1st, 5th and 15th respectively.\cite{US-News:2023}
 
 \section{Artificial intelligence}
 
@@ -272,6 +308,13 @@ dignissim qui blandit praesent luptatum zzril delenit augue duis
 dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
 ut laoreet dolore magna aliquam erat volutpat.
+
+\begin{figure}[h]
+  \centering % avoid the use of \begin{center}...\end{center} and use \centering instead (more compact)
+  \includegraphics[width=\columnwidth]{datacenter_demand}
+  \caption{A visualization of the 2014--2030 forecast data of US data center demand. The image is from \cite{Bangalore:2023} and is in the public domain.}
+  \label{fig:sample}
+\end{figure}
 
 \section{Conclusion}
 
@@ -289,16 +332,15 @@ invidunt ut labore et dolore magna aliquyam erat, sed diam
 voluptua. At vero eos et accusam et justo duo dolores et ea
 rebum.
 
-
 %% if specified like this the section will be committed in review mode
-\acknowledgments{
-The authors wish to thank A, B, and C. This work was supported in part by
-a grant from XYZ.}
+%\acknowledgments{
+%The authors wish to thank A, B, and C. This work was supported in part by
+%a grant from XYZ.}
 
 %\bibliographystyle{abbrv}
-\bibliographystyle{abbrv-doi}
+%\bibliographystyle{abbrv-doi}
 %\bibliographystyle{abbrv-doi-narrow}
-%\bibliographystyle{abbrv-doi-hyperref}
+\bibliographystyle{abbrv-doi-hyperref}
 %\bibliographystyle{abbrv-doi-hyperref-narrow}
 
 \bibliography{template}

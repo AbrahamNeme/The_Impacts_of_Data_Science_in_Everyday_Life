@@ -1,20 +1,57 @@
 \begin{thebibliography}{1}
 
 \bibitem{Bangalore:2023}
-S.~Bangalore, A.~Bhan, A.~D. Miglio, P.~Sachdeva, V.~Sarma, R.~Sharma, and
-  B.~Srivathsan.
-\newblock Investing in the rising data center economy.
-\newblock McKinseys Technology, Media and Telecommunications, January 2023.
+\href{https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy}{S.~Bangalore,
+  A.~Bhan, A.~D. Miglio, P.~Sachdeva, V.~Sarma, R.~Sharma, and B.~Srivathsan}.
+\newblock
+  \href{https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy}{Investing
+  in the rising data center economy}.
+\newblock
+  \href{https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy}{McKinseys
+  Technology, Media and Telecommunications},
+  \href{https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy}{January
+  2023}.
 
 \bibitem{Hawkins:2022}
-K.~Hawkins and M.~Restivo.
-\newblock Data centers: expensive to build, but worth every penny.
-\newblock Jones Lang LaSalle Incorporated, April 2022.
+\href{https://www.us.jll.com/en/views/data-centers-expensive-to-build-but-worth-every-penny#:~:text=The%20average%2Dpowered%20base%20building,of%20%24200%20per%20square%20foot.}{K.~Hawkins
+  and M.~Restivo}.
+\newblock
+  \href{https://www.us.jll.com/en/views/data-centers-expensive-to-build-but-worth-every-penny#:~:text=The%20average%2Dpowered%20base%20building,of%20%24200%20per%20square%20foot.}{Data
+  centers: expensive to build, but worth every penny}.
+\newblock
+  \href{https://www.us.jll.com/en/views/data-centers-expensive-to-build-but-worth-every-penny#:~:text=The%20average%2Dpowered%20base%20building,of%20%24200%20per%20square%20foot.}{Jones
+  Lang LaSalle Incorporated},
+  \href{https://www.us.jll.com/en/views/data-centers-expensive-to-build-but-worth-every-penny#:~:text=The%20average%2Dpowered%20base%20building,of%20%24200%20per%20square%20foot.}{April
+  2022}.
+
+\bibitem{US-News:2023}
+\href{https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs}{U.~News}.
+\newblock
+  \href{https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs}{100
+  best jobs}.
+\newblock
+  \href{https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs}{U.S.
+  News and World Report},
+  \href{https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs}{2023}.
+
+\bibitem{US-Bureau:2023}
+\href{https://www.bls.gov/ooh/math/data-scientists.htm}{O.~of~Occupational~Statistics
+  and E.~Projections}.
+\newblock \href{https://www.bls.gov/ooh/math/data-scientists.htm}{Occupational
+  outlook handbook - data scientists}.
+\newblock \href{https://www.bls.gov/ooh/math/data-scientists.htm}{U.S. BUREAU
+  OF LABOR STATISTICS},
+  \href{https://www.bls.gov/ooh/math/data-scientists.htm}{May 2023}.
 
 \bibitem{Robinson:2022}
-T.~Robinson.
-\newblock How janssen is leveraging data science to improve the trajectory of
-  human health.
-\newblock Domino Data Science Blog, 2022.
+\href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{T.~Robinson}.
+\newblock
+  \href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{How
+  janssen is leveraging data science to improve the trajectory of human
+  health}.
+\newblock
+  \href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{Domino
+  Data Science Blog},
+  \href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{2022}.
 
 \end{thebibliography}
