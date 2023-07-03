@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex template"] 1688398587 "template.aux" "template.bbl" "template" 1688398690 0
+["bibtex template"] 1688402956 "template.aux" "template.bbl" "template" 1688402958 0
   "./abbrv-doi-hyperref.bst" 1687971586 27234 4320b807c5b3f42c0bc4a9c99568a4c3 ""
   "./template.bib" 1688396353 2726 065a4d1a9a5d7cc4a38ac744e8ac6094 ""
-  "template.aux" 1688398688 3245 2b05b9b44155087882f91dd113a6d6e5 "pdflatex"
+  "template.aux" 1688402957 3133 439f03b2c1ee2637a35a9a579ade64f5 "pdflatex"
   (generated)
   "template.bbl"
   "template.blg"
   (rewritten before read)
-["pdflatex"] 1688398686 "c:/Users/ab_ne/OneDrive/Desktop/vgtc_conference_latex/template.tex" "template.pdf" "template" 1688398690 0
+["pdflatex"] 1688402956 "c:/Users/ab_ne/OneDrive/Desktop/vgtc_conference_latex/template.tex" "template.pdf" "template" 1688402958 0
   "C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687972279 84158 d77284a6843bde1e4b9764f09fb2e89e ""
   "C:/Users/ab_ne/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1688323392 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/ab_ne/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681297082 23179007 c123e6541343ff1a3e8d50eb5eb48e1a ""
@@ -110,13 +110,13 @@
   "C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/ab_ne/OneDrive/Desktop/vgtc_conference_latex/template.tex" 1688398684 34998 8e3db7643b85d7717bb43f9314169577 ""
+  "c:/Users/ab_ne/OneDrive/Desktop/vgtc_conference_latex/template.tex" 1688402954 34226 7460dfe214885fee3bbc46bf4184dcca ""
   "pictures//datacenter_demand.pdf" 1688141939 49762 8247ceba31b0ceb75c765cf9bc524566 ""
   "pictures//datacenter_spending.pdf" 1688324911 29672 c7589bbb069329c0131b1898d0f35d7f ""
-  "template.aux" 1688398688 3245 2b05b9b44155087882f91dd113a6d6e5 "pdflatex"
-  "template.bbl" 1688398588 5774 7322e2966cbda3fe632612468304e910 "bibtex template"
-  "template.out" 1688398688 1734 ca553b7551bf4018246c299165a0e722 "pdflatex"
-  "template.tex" 1688398684 34998 8e3db7643b85d7717bb43f9314169577 ""
+  "template.aux" 1688402957 3133 439f03b2c1ee2637a35a9a579ade64f5 "pdflatex"
+  "template.bbl" 1688402956 5774 7322e2966cbda3fe632612468304e910 "bibtex template"
+  "template.out" 1688402957 1734 ca553b7551bf4018246c299165a0e722 "pdflatex"
+  "template.tex" 1688402954 34226 7460dfe214885fee3bbc46bf4184dcca ""
   "vgtc.cls" 1687971586 34961 ed5220caafda9fc60a5e567835565848 ""
   (generated)
   "template.aux"
