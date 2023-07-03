@@ -127,8 +127,8 @@ their tangible impact on individuals' daily lives.
 %% In both cases the last two arguments (1998) or last three (2012) can be empty.
 
 \CCScatlist{
-  \CCScatTwelve{data science}{big data}{data center}{data analytics};
-  \CCScatTwelve{}{artificial intelligence}{data privacy}
+  \CCScatTwelve{data science}{big data}{data center}{data analytics}
+  \CCScatTwelve{artificial intelligence}{machine learning}{ethical concerns}{data privacy}
 }
 
 %\CCScatlist{
@@ -275,7 +275,7 @@ a deep understanding of both the data science techniques and the unique challeng
   diagnoses as well as medical industry trends.
 \end{itemize} 
 
-\subsection{labor demand in data science}
+\subsection{Labor demand in data science}
 
 After all the previous insights of how data science its being leveraged for a wide variety of purposes, it is easy to acknowledge that the demand for professionals in this area has 
 witnessed significant growth and is expected to continue its upward trajectory in the coming years. According to Mckinsey \& Company and the Synergy Research Group the global spending 
@@ -297,17 +297,58 @@ ranks 22nd, with other occupations related in some way to data science like soft
 
 \section{Artificial intelligence}
 
+Artificial intelligence (AI) is a sub-discipline of computer science focused on building computers with flexible intelligence capable of solving complex problems using data, learning from those 
+solutions, and making replicable decisions at scale. Machine learning (ML) sometimes also refered to as applied AI is a branch of AI that focuses on developing algorithms and models that can 
+learn from data and perform specific tasks without being explicitly programmed, in other words it offers a path to make artificial intelligence a reality. Data science has played a key role in the 
+advancement of AI and ML in recent years. Since vast amounts of data are required to be properly work on these branches, advances in data collection, analysis and application have driven the development 
+of more efficient and sophisticated algorithms, leading to significant improvements in the performance of these technologies. "Fundamentally, machines can not hope to mimic humans' cognitive processes 
+without information and Data scientists are tasked with feeding machines accurate, empirical data and statistical models that enable machines to learn autonomously."\cite{Rice:2023} There is no 
+definitive answer to the exact number of machine learning algorithms, as the field of machine learning is continuously evolving and new algorithms are being developed. However they can be 
+broadly categorized into three types:
+
+\begin{itemize}
+  \item \textbf{Supervised learning:} In supervised learning, the algorithm learns from labeled training data. It is provided with input features and corresponding target labels, and its goal is to 
+  learn a mapping function that can predict the correct label for new, unseen inputs. Some popular supervised learning algorithms include linear regression, logistic regression, decision trees, 
+  support vector machines (SVM), and neural networks. These algorithms are widely used for tasks such as classification (predicting categories) and regression (predicting continuous values).
+  \item \textbf{Unsupervised learning:} Unsupervised learning deals with unlabeled data, where the algorithm explores the underlying structure and patterns in the data without any predefined 
+  target labels. The goal is to discover meaningful information, such as clusters, associations, or dimensions, that can provide insights into the data. Common unsupervised learning algorithms 
+  include clustering algorithms like k-means and hierarchical clustering.
+  \item \textbf{Reinforcement learning:} This is a type of machine learning in which an agent learns to make sequential decisions by interacting with an environment. The agent learns through 
+  trial and error, receiving feedback in the form of rewards or penalties for its actions. The goal of reinforcement learning is to maximize the cumulative reward over time by discovering the 
+  optimal actions to take in different situations.
+\end{itemize} 
+
+Nowadays AI models and systems can be found in a broad range of devices and are used for multiple applications, from recommendation algorithms in search engines and digital platforms such as youtube to 
+models that can predict changes in the climate of planet earth based on historic data of weather patterns and pollution emmited by human beings. A prime example that demostrates how fast AI is evolving 
+thanks to the unprecedented quantity of data availability and to the tools and techniques provided by data science is Chat GPT (Generative Pre-trained Transformer) model. Chat GPT is a language model 
+based on the transformer architecture\footnote{The transformer architecture is a neural network model that that can understand and generate human language. It dies this by processing input sequences in 
+parallel, which helps it understand how words are related to each other.} that has been trained on a large amount of textual data from the internet. This model is able to generate coherent and contextually 
+relevant responses from an input text. Chat GPT has shown the general population the power of AI and is enabling millions of people to create their own use cases, such as automating email responses, 
+integrating intelligent chatbots into websites, translating text, generating schedules, and more. Another notable example is the field of computer vision, where advances in data science have enabled the 
+development of systems for object recognition and pattern detection in images and videos. Computer vision is used in many processes in industry, agriculture and even medicine to automate repetitive tasks 
+such as data collection, product sorting and identification of potential pests or diseases.
 
 \section{Ethical Issues}
 
-vel eum iriure dolor in hendrerit
-in vulputate velit esse molestie consequat,\footnote{Footnotes
-appear at the bottom of the column.} vel illum dolore eu
-feugiat nulla facilisis at vero eros et accumsan et iusto odio
-dignissim qui blandit praesent luptatum zzril delenit augue duis
-dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-ut laoreet dolore magna aliquam erat volutpat.
+Ethical issues surrounding data science have become a significant concern as the field continues to advance and play a pivotal role in shaping society and the world. One of the foremost ethical dilemmas 
+in data science revolves around the ownership and control of user data. With the proliferation of digital technologies and online platforms, vast amounts of personal information are collected and stored 
+by organizations. The question arises: Who should own this data, and how should it be used? The misuse or unauthorized access to user data can lead to privacy violations, identity theft, and the manipulation 
+of individuals and communities. The lack of clear regulations and standards for data ownership and privacy protection creates a power imbalance between users and organizations, often leaving individuals at a 
+disadvantage. In addition, algorithms used in data science applications may inadvertently promote harmful content and misinformation. Recommendation systems, for example, are designed to personalize content 
+and provide users with relevant information. However, without careful design and oversight, these algorithms can reinforce pre-existing biases, amplify extremist views, and create filter bubbles that isolate 
+individuals. This can have far-reaching consequences, such as polarizing public discourse, fostering disinformation campaigns, and undermining democratic processes. For example, in 2019 Facebook researchers 
+created three dummy accounts to study the platform's technology for recommending content in the News Feed. The first was for a user in India, its biggest market. Then they created two more test accounts to 
+represent a conservative american user and a liberal one. All three accounts engaged exclusively with content recommended by Facebook's algorithms. Within days, the liberal account, started seeing critics of 
+Republican Senator Mitch McConnell after he blocked bills to protect American elections from foreign interference. The conservative account, was guided toward QAnon conspiracy theories. Meanwhile, the test 
+user's News Feed in India was filled with inflammatory material containing violent and graphic images related to India's border skirmishes with Pakistan.\cite{Bidar:2021}\newline
+
+Artificial intelligence introduces another set of ethical concerns. As AI systems become more sophisticated, there is a risk of biased decision-making, lack of transparency, and loss of human control. Biases 
+in training data can perpetuate discrimination and reinforce societal inequalities. AI-powered technologies like facial recognition may infringe upon privacy rights and lead to unwarranted surveillance. The 
+potential for AI to replace human workers also raises concerns about job displacement and economic inequality. Ensuring the responsible development and deployment of AI systems is crucial to address these ethical 
+challenges. Furthermore, the growing demand for data storage and processing power has led to a surge in data centers, which consume vast amounts of energy and contribute to carbon emissions. The carbon footprint 
+of data centers, combined with the energy requirements for data storage and transmission, presents ecological challenges. According to Mckinsey \& Company "in the United States alone, data center energy demand is 
+expected to grow by some 10\% a yer until 2030."\cite{Bangalore:2023} The extraction of raw materials for manufacturing data storage devices and the disposal of electronic waste further contribute to environmental 
+degradation. Sustainable practices, energy-efficient technologies, and responsible data management strategies are needed to minimize the environmental impact of data science activities.
 
 \begin{figure}[h]
   \centering % avoid the use of \begin{center}...\end{center} and use \centering instead (more compact)
@@ -318,19 +359,12 @@ ut laoreet dolore magna aliquam erat volutpat.
 
 \section{Conclusion}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum.
+In conclusion, data science has become an essential discipline in today's data-driven world, empowering organizations, transforming industries, and creating new opportunities. As data science continues 
+to evolve, it will further revolutionize decision-making processes, drive advancements in technology, and unlock new possibilities for solving complex problems across various domains. While achieving 
+the full potential of data science poses many significant challenges, these are being addressed through the development of scalable solutions, data cleansing and preprocessing techniques, AI models and 
+visualization methods. Undoubtedly the job market in virtually every industry has changed and will continue to evolve and expand with the emergence of new technologies and fields of study in data science, 
+but it is also important to recognize and address the issues that come with them. By addressing all ethical and environmental concerns through responsible practices and meaningful collaboration, humanity 
+can harness the power of data science while minimizing its negative impact and fostering a more equitable and sustainable future.
 
 %% if specified like this the section will be committed in review mode
 %\acknowledgments{

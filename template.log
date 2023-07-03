@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  2 JUL 2023 23:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.12)  3 JUL 2023 17:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,32 +427,37 @@ File: pictures//datacenter_spending.pdf Graphic file (type pdf)
 <use pictures//datacenter_spending.pdf>
 Package pdftex.def Info: pictures//datacenter_spending.pdf  used on input line 285.
 (pdftex.def)             Requested size: 240.94499pt x 170.25824pt.
-<pictures//datacenter_demand.pdf, id=75, 845.1575pt x 597.23125pt>
+ [3 <./pictures//datacenter_spending.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 333--344
+
+ []
+
+<pictures//datacenter_demand.pdf, id=90, 845.1575pt x 597.23125pt>
 File: pictures//datacenter_demand.pdf Graphic file (type pdf)
 <use pictures//datacenter_demand.pdf>
-Package pdftex.def Info: pictures//datacenter_demand.pdf  used on input line 314.
+Package pdftex.def Info: pictures//datacenter_demand.pdf  used on input line 355.
 (pdftex.def)             Requested size: 240.94499pt x 170.25824pt.
- (template.bbl [3 <./pictures//datacenter_spending.pdf> <./pictures//datacenter_demand.pdf>]) [4
+(template.bbl [4 <./pictures//datacenter_demand.pdf>]) [5
 
 ] (template.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 08596A0B5FD949E692B997778D895230;1734.
+(rerunfilecheck)             Checksum: CA553B7551BF4018246C299165A0E722;1734.
  ) 
 Here is how much of TeX's memory you used:
- 11753 strings out of 476326
- 187997 string characters out of 5787722
+ 11776 strings out of 476326
+ 188214 string characters out of 5787722
  1881660 words of memory out of 5000000
- 31699 multiletter control sequences out of 15000+600000
- 563530 words of font info for 289 fonts, out of 8000000 for 9000
+ 31701 multiletter control sequences out of 15000+600000
+ 564238 words of font info for 301 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,8n,76p,1059b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ab_ne/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (4 pages, 194305 bytes).
+Output written on template.pdf (5 pages, 208000 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  79451 words of extra memory for PDF output out of 89155 (max. 10000000)
 

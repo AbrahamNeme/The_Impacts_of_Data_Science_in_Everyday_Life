@@ -675,6 +675,8 @@ INPUT .\pictures\\datacenter_spending.pdf
 INPUT .\pictures\\datacenter_spending.pdf
 INPUT .\pictures\\datacenter_spending.pdf
 INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
+INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr7t.vf
+INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT .\pictures\\datacenter_demand.pdf
 INPUT pictures\\datacenter_demand.pdf
 INPUT .\pictures\\datacenter_demand.pdf
@@ -684,8 +686,6 @@ INPUT .\template.bbl
 INPUT template.bbl
 INPUT .\template.bbl
 INPUT template.bbl
-INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr7t.vf
-INPUT C:\Users\ab_ne\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT template.aux
 INPUT .\template.out
 INPUT .\template.out

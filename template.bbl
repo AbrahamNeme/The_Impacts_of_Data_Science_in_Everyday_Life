@@ -12,6 +12,17 @@
   \href{https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy}{January
   2023}.
 
+\bibitem{Bidar:2021}
+\href{https://www.cbsnews.com/news/facebook-algorithm-news-feed-conservatives-liberals-india/}{M.~Bidar}.
+\newblock
+  \href{https://www.cbsnews.com/news/facebook-algorithm-news-feed-conservatives-liberals-india/}{Facebook
+  researchers saw how its algorithms led to misinformation}.
+\newblock
+  \href{https://www.cbsnews.com/news/facebook-algorithm-news-feed-conservatives-liberals-india/}{CBS
+  News},
+  \href{https://www.cbsnews.com/news/facebook-algorithm-news-feed-conservatives-liberals-india/}{October
+  2021}.
+
 \bibitem{Hawkins:2022}
 \href{https://www.us.jll.com/en/views/data-centers-expensive-to-build-but-worth-every-penny#:~:text=The%20average%2Dpowered%20base%20building,of%20%24200%20per%20square%20foot.}{K.~Hawkins
   and M.~Restivo}.
@@ -53,5 +64,17 @@
   \href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{Domino
   Data Science Blog},
   \href{https://www.dominodatalab.com/blog/how-janssen-is-leveraging-data-science-to-improve-health?utm_medium=cpc&utm_source=google&utm_campaign=17881461255&_ga=2.110795469.957952233.1687376749-1736852348.1687376749&_gac=1.53109722.1687376749.CjwKCAjwv8qkBhAnEiwAkY-ahlwI-PHH_v3fDWxIu8Gmy4wIfCFM6CIi4zIrfnLz8WQ1sm9PQbGKbRoC51IQAvD_BwE}{2022}.
+
+\bibitem{Rice:2023}
+\href{https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml#:~:text=Data%20scientists%20contribute%20to%20the,and%20inform%20business%20decision%2Dmaking.}{R.~University}.
+\newblock
+  \href{https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml#:~:text=Data%20scientists%20contribute%20to%20the,and%20inform%20business%20decision%2Dmaking.}{Data
+  science vs. artificial intelligence and machine learning: What's the
+  difference?}
+\newblock
+  \href{https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml#:~:text=Data%20scientists%20contribute%20to%20the,and%20inform%20business%20decision%2Dmaking.}{Rice
+  University - Deparment of Computer Science},
+  \href{https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml#:~:text=Data%20scientists%20contribute%20to%20the,and%20inform%20business%20decision%2Dmaking.}{April
+  2023}.
 
 \end{thebibliography}
